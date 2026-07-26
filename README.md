@@ -216,7 +216,7 @@ saas-analytics-snowflake/
 
 **Shubham Jaiswal**
 - GitHub: [@JaiswalAnalytics](https://github.com/JaiswalAnalytics)
-- LinkedIn: https://www.linkedin.com/in/iam-shubhamjaiswal/
+- LinkedIn: [Shubham Jaiswal](https://www.linkedin.com/in/iam-shubhamjaiswal/)
 - Dashboard: [Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZjk3ZmM5OWItMTVkNS00ZWU3LTlkYmEtYzQ0NjBlMGVhZDQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
